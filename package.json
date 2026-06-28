@@ -1,6 +1,6 @@
 {
   "name": "@ph-itdev/shipping-rate-calc",
-  "version": "0.2026.627",
+  "version": "0.2026.628",
   "description": "Calculate shipping rates by weight, dimensions, zone, and carrier with support for domestic and international freight.",
   "main": "index.js",
   "types": "index.d.ts",

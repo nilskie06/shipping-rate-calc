@@ -28,6 +28,10 @@ MIT
 
 ## Changelog
 
+### v0.2026.628 (2026-06-28)
+- Added JSDoc documentation
+- Daily auto-update
+
 ### v0.2026.627 (2026-06-26)
 - Added input validation
 - Daily auto-update
