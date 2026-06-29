@@ -28,6 +28,10 @@ MIT
 
 ## Changelog
 
+### v0.2026.629 (2026-06-29)
+- Added custom error classes and guards
+- Daily auto-update
+
 ### v0.2026.628 (2026-06-28)
 - Added JSDoc documentation
 - Daily auto-update
